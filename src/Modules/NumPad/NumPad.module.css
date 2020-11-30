@@ -1,0 +1,8 @@
+.numPad {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    /* display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-auto-rows: 1fr; */
+}
